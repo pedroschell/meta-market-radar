@@ -1,5 +1,5 @@
 ---
-name: biblioteca-anuncios-meta
+name: meta-market-radar
 description: Use para descobrir quem está anunciando no Meta em um segmento ou região — quantos anúncios ativos, há quanto tempo cada concorrente investe e qual criativo está rodando. Serve para benchmark de concorrência em estudo de mercado e para encontrar leads de mídia paga (quem já anuncia é quem já compra). Aciona quando o pedido envolver: biblioteca de anúncios, ad library, quem anuncia, concorrente anunciando, há quanto tempo investe, prospecção de clientes de tráfego.
 ---
 

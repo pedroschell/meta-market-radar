@@ -1,4 +1,4 @@
-# biblioteca-anuncios-meta
+# meta-market-radar
 
 Uma skill para o Claude Code que descobre **quem está anunciando no Meta** num segmento ou região: quantos anúncios ativos cada empresa tem, há quanto tempo investe e qual criativo está rodando.
 
@@ -28,7 +28,7 @@ Saída de exemplo:
 Pré-requisito: o [Playwright MCP](https://github.com/microsoft/playwright-mcp) configurado no Claude Code.
 
 ```bash
-git clone https://github.com/pedroschell/biblioteca-anuncios-meta ~/.claude/skills/biblioteca-anuncios-meta
+git clone https://github.com/pedroschell/meta-market-radar ~/.claude/skills/meta-market-radar
 ```
 
 Pronto. Peça algo como *"quem anuncia clínica odontológica em Porto Alegre no Meta?"* e a skill é acionada.
