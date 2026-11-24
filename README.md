@@ -1,5 +1,7 @@
 # meta-market-radar
 
+**Português** | [English](README.en.md)
+
 Uma skill para o Claude Code que descobre **quem está anunciando no Meta** num segmento ou região: quantos anúncios ativos cada empresa tem, há quanto tempo investe e qual criativo está rodando.
 
 A Biblioteca de Anúncios da Meta é o único lugar público onde dá para ver o investimento em mídia da concorrência. Não é estimativa: é o anúncio real, com data de início. O problema é que ela é uma página em JavaScript, e a API oficial só cobre anúncios políticos. Esta skill ensina o Claude a coletar pela própria interface, com o Playwright, e a devolver só o resumo.
